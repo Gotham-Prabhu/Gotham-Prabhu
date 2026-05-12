@@ -1,6 +1,6 @@
 # 👋 Hey, I’m Gautam
 
-🚀 **SAP AI Advisory Expert** based in the Netherlands, helping enterprises turn ideas into scalable, production‑grade AI on **SAP BTP**.
+🚀 **SAP AI Advisory Expert** based in the Netherlands, helping enterprises turn ideas into scalable, production‑grade AI on **SAP BTP** and **Hyperscalar Platforms (AWS/Azure/GCP)**.
 
 ## 💡 What I Do
 
