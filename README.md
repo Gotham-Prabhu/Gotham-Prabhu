@@ -52,8 +52,6 @@
 - 🧠 **Context (long‑context patterns)**  
   Prompt caching, structured summaries, retrieval‑as‑window, and discipline about what actually deserves a token. `Caching • summary maps`
 
-- 🎙️ **Voice (multimodal & voice)**  
-  Real‑time transcription, speech‑to‑action mapping, document understanding, and screen‑reading agents for back‑office workflows. `STT • vision • OCR`
 - 🧭 **Discovery (AI roadmap & opportunity sizing)**  
   Workshops to find the 3–5 use cases that justify a quarter of investment, with success metrics agreed and measured up front.
 
